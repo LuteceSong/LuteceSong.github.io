@@ -110,14 +110,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "student / ai researcher"
   location         : "ROK"
-  email            :
+  email            : "songhs@khu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:songhs@khu.ac.kr
+      #url: mailto:songhs@khu.ac.kr
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/LuteceSong"
+      #url: "https://github.com/LuteceSong"
 
 # Site Footer
 footer:
