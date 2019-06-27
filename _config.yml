@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Song Hyunsoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "student / ai researcher"
-  location         : "ROK"
+  bio              : "student / AI researcher"
+  location         : "South Korea"
   email            : "songhs@khu.ac.kr"
   links:
     - label: "Email"
