@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Song Vision"
+title                    : "Lutece Vision"
 title_separator          : "-"
 name                     : "Song Hyunsoo"
 description              : "Notes about AI, Computer Vision and etc"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Song Hyunsoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "student / AI researcher"
+  bio              : "MS Ph.D student"
   location         : "South Korea"
   email            : "songhs@khu.ac.kr"
   links:
